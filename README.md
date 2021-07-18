@@ -1,5 +1,5 @@
 # PESEL reader
-## Program służy do odczytywania danych z numeru PESEL. \
+## Program służy do odczytywania danych z numeru PESEL.
 Powstał jako projekt zaliczeniowy z przedmiotu Języki Skryptowe.
 
 ## Opis działania:
